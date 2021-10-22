@@ -1,0 +1,19 @@
+DESIGN LAB 
+
+Link to Figma page: https://www.figma.com/file/Qu7LnX4fe0UQZMHf29gzQB/Design-Lab-%7C-Bright-Paths-Program?node-id=0%3A1
+
+Style Guide:
+
+Colors
+-"6CBBC0" is used for the header
+-"326164" at 50% passthrough is used for the footer and search bar button
+-"326164" at 100% passthrough is used for the Add to Cart and Checkout buttons
+-"000000" is used for all fonts
+-"E5E5E5" at 50% passthrough is used for type area in search bar
+
+
+Fonts
+-"Roboto" is used for book title, add to cart button and checkout button
+-"Rosario" is used within seperation bar for Product Details, Order Summary and My Shopping Cart
+-"Red Rose" is used for website logo
+-"Roboto Sans" is used for the detatils of Product Details
